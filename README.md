@@ -19,8 +19,8 @@ The project also examines correlations and seasonal trends, providing a comprehe
 
 1. Importing Raw data.
 2. Data Exploration
-3.Data Cleaning
-4.Data Wrangling (Data Transformation and Manipulation)
+3. Data Cleaning
+4. Data Wrangling (Data Transformation and Manipulation)
 5. Data Visualization
 6. Deriving key data insights.
 
